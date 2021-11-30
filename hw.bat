@@ -1,3 +1,3 @@
 ECHO OFF
-ECHO Hello World
+ECHO Hello Worl
 COPY source_file.doc newfile.doc
