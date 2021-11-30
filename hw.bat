@@ -1,2 +1,2 @@
 ECHO OFF
-ECHO Hello Worl
+ECHO Hello World
